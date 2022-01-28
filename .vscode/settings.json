@@ -1,3 +1,4 @@
 {
-    "vlocity.sfdxUsername": "ecuevas@wise-moose-abajfo.com"
+    "vlocity.sfdxUsername": "ecuevas@wise-moose-abajfo.com",
+    "salesforcedx-vscode-core.show-cli-success-msg": false
 }
